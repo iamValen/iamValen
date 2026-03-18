@@ -1,16 +1,30 @@
-## Hi there 👋
+# valentim
 
-<!--
-**iamValen/iamValen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**In progress** 🛠️
 
-Here are some ideas to get you started:
+> Computer Engineering student from Faro, Portugal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on... 
+- Better CI pipeline
+- Developing, protecting and testing a REST API
+- Self-host from scratch
+- Learning . . .
+
+### Interested in
+- CyberSecurity
+- DevSecOps
+- Practical infrastructure and systems
+- Backend logic and project structure
+- REST API development
+- Testing and code quality
+
+### Tech
+**Languages**: C, Java, TypeScript, JavaScript, Python
+**Frontend**: React, CSS Modules, Vite
+**Backend**: Node.js, Express
+**Databases**: PostgreSQL, Prisma ORM
+**Tools**: Git, Docker, GH Actions, Figma, Linux
+
+---
+
+**Contact:** valentimk04@gmail.com
