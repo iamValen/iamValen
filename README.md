@@ -5,7 +5,7 @@
 > Computer Engineering student from Faro, Portugal.
 
 ### Currently working on... 
-- Better CI pipeline
+- Better CI pipelines
 - Developing, protecting and testing a REST API
 - Self-host from scratch
 - Learning . . .
@@ -16,7 +16,6 @@
 - Practical infrastructure and systems
 - Backend logic and project structure
 - REST API development
-- Testing and code quality
 
 ### Tech
 **Languages**: C, Java, TypeScript, JavaScript, Python
