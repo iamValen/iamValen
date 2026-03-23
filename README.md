@@ -4,10 +4,10 @@
 
 > Computer Engineering student from Faro, Portugal.
 
-### Currently working on... 
+### Working on... 
+- Self-host environment in HomeLab
 - Better CI pipelines
-- Developing, protecting and testing a REST API
-- Self-host from scratch
+- Developing, protecting and testing a rest API
 - Learning . . .
 
 ### Interested in
