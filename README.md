@@ -4,12 +4,6 @@
 
 > Computer Engineering student from Faro, Portugal.
 
-### Working on... 
-- Self-host environment in HomeLab
-- Better CI pipelines
-- Developing, protecting and testing a rest API
-- Learning . . .
-
 ### Interested in
 - CyberSecurity
 - DevSecOps
